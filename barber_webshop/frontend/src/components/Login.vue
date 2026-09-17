@@ -75,7 +75,7 @@ async function login() {
     }
 
     sessionStorage.setItem("isLoggedIn", "true");
-    window.location.href = "/management";
+    window.location.href = "/management.html";
   } catch (error) {
     console.error("Login failed:", error);
     errorMessage.value = "Something went wrong. Please try again.";

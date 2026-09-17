@@ -5,7 +5,7 @@ import BookingOverview from "./components/BookingOverview.vue";
 
 onMounted(() => {
   if (sessionStorage.getItem("isLoggedIn") !== "true") {
-    window.location.href = "/login";
+    window.location.href = "/login.html";
   }
 });
 </script>
