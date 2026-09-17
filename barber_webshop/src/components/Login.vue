@@ -41,7 +41,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 
-const API_URL = "http://localhost:3000";
+const API_URL = "https://sd4-p13-barber-webshop.vercel.app";
 
 const username = ref("");
 const password = ref("");

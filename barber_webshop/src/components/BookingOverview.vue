@@ -191,7 +191,7 @@ async function openPopup(day: number) {
 
   try {
     const response = await fetch(
-        `http://localhost:3000/api/appointments?date=${date}`,
+        `https://sd4-p13-barber-webshop.vercel.app/api/appointments?date=${date}`,
     );
 
     if (!response.ok) {
@@ -212,7 +212,7 @@ async function fetchMonthAppointments() {
 
   try {
     const response = await fetch(
-        `http://localhost:3000/api/appointments/month?month=${month}`,
+        `https://sd4-p13-barber-webshop.vercel.app/api/appointments/month?month=${month}`,
     );
 
     if (!response.ok) {
