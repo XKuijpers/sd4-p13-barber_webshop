@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap");
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "tailwindcss";
+
+.primary-bg {
+  background-color: #f4f4f4;
+}
+
+.accent {
+  background-color: #d9d9d9;
+}
+
+.border-accent {
+  border-color: #d9d9d9;
+}
+
+.text-highlight {
+  color: #b5a642;
+}
+
+.border-highlight {
+  background-color: #f4f4f4;
+  border-color: #b5a642;
+}
+
+.highlight-button:hover {
+  background-color: #b5a642;
+}
+
+.vacant-color {
+  background-color: #46ce5f;
+  border-color: #46ce5f;
+}
+
+.booked-color {
+  background-color: #dfc530;
+  border-color: #dfc530;
+}
+
+.full-color {
+  background-color: #ee4f4f;
+  border-color: #ee4f4f;
+}
+
+.h1 {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 48px;
+}
+
+.h2 {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 32px;
+}
+
+.h3 {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 28px;
+}
+
+.h4 {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 20px;
+}
+
+.text {
+  font-family: "Playfair", sans-serif;
+  font-size: 16px;
+}
+
+.button {
+  font-family: "Playfair", sans-serif;
+  font-size: 16px;
+}
+
+.caption {
+  font-family: "Playfair", sans-serif;
+  font-size: 12px;
+}
