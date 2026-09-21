@@ -1,9 +1,9 @@
 <template>
   <div id="welcomeSection">
-    <p class="h1 primary-bg text-center">Barbershop Name</p>
+    <p class="h1 primary-bg text-center">Barbershop</p>
 
     <p class="text-highlight h2 pt-2 text-center">
-      Barbershop Slogan Administrative Dashboard
+      Barbershop Administrative Dashboard
     </p>
 
     <img src="../assets/barber_webshop.png" alt=""

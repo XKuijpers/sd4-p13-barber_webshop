@@ -1,7 +1,7 @@
 <template>
   <footer class="px-2 pt-16 pb-10 md:px-7 md:pt-30 lg:px-40 lg:pt-55">
     <div class="flex flex-col gap-y-4 md:flex-row md:gap-x-30 md:gap-y-0">
-      <div class="accent h-[335px] w-full md:h-[228px] md:w-[256px]"></div>
+      <img src="../assets/barber_webshop.png" alt="" class="w-full md:h-fit md:w-[256px]">
 
       <div
         class="ml-auto flex gap-30 md:flex-col md:gap-8 lg:flex-row lg:gap-32"
@@ -28,4 +28,5 @@
     </div>
   </footer>
 </template>
-<script setup lang="ts"></script>
+<script setup lang="ts">
+</script>

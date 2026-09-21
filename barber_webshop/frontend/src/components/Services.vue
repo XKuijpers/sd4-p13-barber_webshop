@@ -19,10 +19,7 @@
         </div>
 
         <p class="text w-full md:w-[500px]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Get a fresh, clean cut tailored to your style. From classic looks to modern fades, we make sure you leave looking sharp.
         </p>
       </div>
     </div>
@@ -44,10 +41,7 @@
         </div>
 
         <p class="text w-full md:w-[500px]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Keep your beard looking clean and well-shaped. We trim, shape and refine your beard to give you a sharp, finished look.
         </p>
       </div>
     </div>
@@ -69,10 +63,7 @@
         </div>
 
         <p class="text w-full md:w-[500px]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          A smooth, classic shave with a clean finish. Sit back, relax and leave with a fresh, smooth look.
         </p>
       </div>
     </div>
@@ -94,10 +85,7 @@
         </div>
 
         <p class="text w-full md:w-[500px]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Give your hair a fresh start. Our hair wash leaves your hair clean, refreshed and ready for your next style.
         </p>
       </div>
     </div>
