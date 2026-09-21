@@ -1,9 +1,9 @@
 <template>
   <div class="mx-auto max-w-150">
-    <p class="h1 text-center">Barbershop Name</p>
+    <p class="h1 text-center">Barbershop</p>
 
     <p class="text-highlight h2 pt-2 text-center">
-      Administrative Dashboard Login
+      Barbershop Administrative Dashboard Login
     </p>
 
     <div class="primary-bg border-highlight mt-10 rounded-lg border-4 p-8">
